@@ -34,7 +34,7 @@
 
 ### 🎮 我的项目
 
-#### [Unity_Game](https://github.com/chnnasn/Shelter)
+#### [Shelter](https://github.com/chnnasn/Shelter)
 > Unity游戏开发项目
 - 包含完整的游戏开发框架和模块
 - 技术亮点：游戏架构设计
