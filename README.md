@@ -3,7 +3,7 @@
 **A Game Maker from China**
 
 - 🔭  Currently working on game projects using **Unity** and **C#**
-- 🌱  Deepening my knowledge of **C++** and game engine low-level principles
+- 🌱  Working to deepen my understanding of C++ and the underlying principles of game engines
 - 🚀  **Currently self-developing the TomCat Game Engine** (based on C++/OpenGL/GLFW)
 - 💼  Focused on real-time rendering, performance optimization, and toolchain development
 - 🤔  Interested in computer graphics and architecture design
