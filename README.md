@@ -5,7 +5,7 @@
 - 🔭  Currently working on game projects using **Unity** and **C#**
 - 🌱  Working to deepen my understanding of C++ and the underlying principles of game engines
 - 🚀  **Currently self-developing the TomCat Game Engine** (based on C++/OpenGL/GLFW)
-- 💼  Focused on real-time rendering, performance optimization, and toolchain development
+- 💼  Focused on core gameplay implementation, performance optimization, and toolchain development
 - 🤔  Interested in computer graphics and architecture design
 - ⚡  Passionate about technology; enjoy the creative process from 0 to 1
 
