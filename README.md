@@ -50,9 +50,9 @@
 
 ### 📊 GitHub Stats
 
-![chnnasn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chnnasn&show_icons=true&theme=radical)
+![chnnasn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chnnasn&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chnnasn&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chnnasn&layout=compact&theme=default)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chnnasn.chnnasn)
 
