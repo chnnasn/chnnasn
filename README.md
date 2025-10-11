@@ -1,6 +1,6 @@
 ### Hello, I'm chnnasn! 👋
 
-**A Game Developer from China**
+**A Game Maker from China**
 
 - 🔭  Currently working on game projects using **Unity** and **C#**
 - 🌱  Deepening my knowledge of **C++** and game engine low-level principles
@@ -40,10 +40,10 @@
 - Technical Highlights: Game Architecture Design
 
 #### [Reverse Loop](https://github.com/chnnasn/TencentGameJam)
-> Unity mini-game with time rewind gameplay
-- A puzzle game featuring unique backtracking mechanics
-- Players can rewind time to correct mistakes and solve challenges
-- Technical Highlights: Core gameplay implementation, time rewind system
+> Innovative puzzle game centered on action-rewinding mechanics
+- Features a unique behavior-based rewind system where players can reverse specific actions
+- Rewind individual moves while preserving other elements of gameplay state
+- Technical Highlights: Core gameplay implementation, selective action rewinding system, state management
 
 ### 📊 GitHub Stats
 
