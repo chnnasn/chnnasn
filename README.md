@@ -41,9 +41,9 @@
 
 #### [Reverse Loop](https://github.com/chnnasn/TencentGameJam)
 > Innovative puzzle game centered on action-rewinding mechanics
-- Features a unique behavior-based rewind system where players can reverse specific actions
-- Rewind individual moves while preserving other elements of gameplay state
-- Technical Highlights: Core gameplay implementation, selective action rewinding system, state management
+- Players autonomously unlock level difficulty through behavior-based rewinding
+- Progressive challenge scaling tied to mastery of action reversal mechanics
+- Technical Highlights: Dynamic difficulty adjustment, action-rewinding system, adaptive level progression
 
 ### 📊 GitHub Stats
 
