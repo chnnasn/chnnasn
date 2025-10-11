@@ -26,7 +26,7 @@
 - C# (.NET, LINQ, Asynchronous Programming)
 - C++ (STL, Memory Management, Multithreading)
 
-**Graphics & Low-Level**
+**Graphics**
 - OpenGL/GLFW Window Management & Rendering
 - Graphics API Encapsulation, Cross-Platform Development
 - Real-Time Rendering Techniques
