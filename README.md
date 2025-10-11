@@ -35,9 +35,11 @@
 ### 🎮 My Projects
 
 #### [Shelter](https://github.com/chnnasn/Shelter)
-> Unity Game Development Project
-- Includes a complete game development framework and modules
-- Technical Highlights: Game Architecture Design
+> Survival strategy game testing resource management under pressure
+- Players gather essential supplies during calm periods to withstand recurring rainstorms
+- Each storm intensifies, demanding progressively more resources for survival
+- Strategic planning and efficient resource allocation are key to enduring the escalating challenges
+- Technical Highlights: Dynamic difficulty system, resource management mechanics, weather event programming
 
 #### [Reverse Loop](https://github.com/chnnasn/TencentGameJam)
 > Innovative puzzle platformer with ghostly time-manipulation mechanics
