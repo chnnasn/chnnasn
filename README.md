@@ -40,9 +40,10 @@
 - Technical Highlights: Game Architecture Design
 
 #### [Reverse Loop](https://github.com/chnnasn/TencentGameJam)
-> Unity Game Development Project
-- Covers the full development process
-- Technical Highlights: Core Gameplay Implementation
+> Unity mini-game with time rewind gameplay
+- A puzzle game featuring unique backtracking mechanics
+- Players can rewind time to correct mistakes and solve challenges
+- Technical Highlights: Core gameplay implementation, time rewind system
 
 ### 📊 GitHub Stats
 
