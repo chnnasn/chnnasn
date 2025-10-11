@@ -23,7 +23,7 @@
 **编程语言**
 - C# (.NET, LINQ, 异步编程)
 - C++ (STL, 内存管理，多线程)
-- Python (工具脚本)
+
 
 ### 🎮 我的项目
 
@@ -49,19 +49,6 @@
 - **CSDN/博客园**: [你的技术博客链接]
 - **B站**: [你的B站主页链接，如果有技术分享视频]
 
-```csharp
-// 一段展示你代码风格的示例
-public class Developer
-{
-    public string Name => "chnnasn";
-    public string[] Skills => new[] { "Unity", "C#", "C++" };
-    
-    public void SayHello()
-    {
-        Debug.Log("欢迎交流游戏开发技术！");
-    }
-}
-```
 
 ![访客计数](https://visitor-badge.laobi.icu/badge?page_id=chnnasn.chnnasn)
 
