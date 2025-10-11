@@ -39,7 +39,7 @@
 - 包含完整的游戏开发框架和模块
 - 技术亮点：游戏架构设计
 
-#### [Unity_Game](https://github.com/chnnasn/TencentGameJam)
+#### [Reverse Loop](https://github.com/chnnasn/TencentGameJam)
 > Unity游戏开发项目
 - 包含完整的流程
 - 技术亮点：核心玩法实现
