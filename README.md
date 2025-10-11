@@ -56,4 +56,4 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chnnasn.chnnasn)
 
-**Let's explore the infinite possibilities of game development together!** 🚀
+**Let's explore the infinite possibilities of together!** 🚀
