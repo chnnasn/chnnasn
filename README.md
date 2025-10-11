@@ -50,11 +50,6 @@
 
 ![最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=chnnasn&layout=compact&theme=radical)
 
-### 📫 联系我
-
-- **邮箱**: [你的邮箱]
-- **GitHub**: https://github.com/chnnasn
-- **技术博客**: [你的技术博客链接]
 
 ![访客计数](https://visitor-badge.laobi.icu/badge?page_id=chnnasn.chnnasn)
 
