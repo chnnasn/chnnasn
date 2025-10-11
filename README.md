@@ -40,10 +40,11 @@
 - Technical Highlights: Game Architecture Design
 
 #### [Reverse Loop](https://github.com/chnnasn/TencentGameJam)
-> Innovative puzzle game centered on action-rewinding mechanics
-- Players autonomously unlock level difficulty through behavior-based rewinding
-- Progressive challenge scaling tied to mastery of action reversal mechanics
-- Technical Highlights: Dynamic difficulty adjustment, action-rewinding system, adaptive level progression
+> Innovative puzzle platformer with ghostly time-manipulation mechanics
+- Players' original movements are recorded before rewinding, then materialize as shadow entities
+- Strategic avoidance of past-self shadows and environmental obstacles to reach objectives
+- Dynamic difficulty progression through mastery of temporal displacement mechanics
+- Technical Highlights: Ghost entity generation system, temporal rewind mechanics, obstacle avoidance AI
 
 ### 📊 GitHub Stats
 
