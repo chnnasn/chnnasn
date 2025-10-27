@@ -1,6 +1,6 @@
 ### Hello, I'm chnnasn! 👋
 
-**A Game Maker from China**
+**A Game Enthusiast from China**
 
 - 🔭  Currently working on game projects using **Unity** and **C#**
 - 🌱  Working to deepen my understanding of C++ and the underlying principles of game engines
