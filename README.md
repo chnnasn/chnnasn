@@ -1,54 +1,61 @@
-### Hello, I'm chnnasn! 👋
+# Hello, I'm chnnasn! 👋
 
 **A Game Enthusiast from China**
 
-- 🔭  Currently working on game projects using **Unity** and **C#**
-- 🌱  Working to deepen my understanding of C++ and the underlying principles of game engines
-- 🚀  **Currently self-developing the TomCat Game Engine** (based on C++/OpenGL/GLFW)
-- 💼  Focused on core gameplay implementation, performance optimization, and toolchain development
-- 🤔  Interested in computer graphics and architecture design
-- ⚡  Passionate about technology; enjoy the creative process from 0 to 1
+- 🔭 Currently working on game projects using **Unity** and **C#**
+- 🌱 Working to deepen my understanding of C++ and the underlying principles of game engines
+- 🚀 **Currently self-developing the TomCat Game Engine** (based on C++/OpenGL/GLFW)
+- 💼 Focused on core gameplay implementation, performance optimization, and toolchain development
+- 🤔 Interested in computer graphics and architecture design
+- ⚡ Passionate about technology and enjoy the creative process of building projects from 0 to 1
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![GLFW](https://img.shields.io/badge/-GLFW-000000?style=for-the-badge&logo=opengl&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-**Game Development**
+### Game Development
+
 - Unity3D, UGUI, Shader Programming
 - Game Architecture Design, ECS Pattern
 - AI Behavior Trees, Animation State Machines
 
-**Programming Languages**
+### Programming Languages
+
 - C# (.NET, LINQ, Asynchronous Programming)
 - C++ (STL, Memory Management, Multithreading)
 
-**Graphics**
-- OpenGL/GLFW Window Management & Rendering
-- Graphics API Encapsulation, Cross-Platform Development
+### Graphics
+
+- OpenGL/GLFW Window Management and Rendering
+- Graphics API Encapsulation and Cross-Platform Development
 - Real-Time Rendering Techniques
 - **TomCat Game Engine** Development (In Progress)
 
-### 🎮 My Projects
+## 🎮 My Projects
 
-#### [Shelter](https://github.com/chnnasn/Shelter)
-> Survival strategy game testing resource management under pressure
+### [Shelter](https://github.com/chnnasn/Shelter)
+
+> A survival strategy game that tests resource management under pressure.
+
 - Players gather essential supplies during calm periods to withstand recurring rainstorms
-- Each storm intensifies, demanding progressively more resources for survival
+- Each storm intensifies, requiring progressively more resources for survival
 - Strategic planning and efficient resource allocation are key to enduring the escalating challenges
-- Technical Highlights: Dynamic difficulty system, resource management mechanics, weather event programming
+- **Technical Highlights:** Dynamic difficulty system, resource management mechanics, and weather event programming
 
-#### [Reverse Loop](https://github.com/chnnasn/TencentGameJam)
-> Innovative puzzle platformer with ghostly time-manipulation mechanics
-- Players' original movements are recorded before rewinding, then materialize as shadow entities
-- Strategic avoidance of past-self shadows and environmental obstacles to reach objectives
-- Dynamic difficulty progression through mastery of temporal displacement mechanics
-- Technical Highlights: Ghost entity generation system, temporal rewind mechanics, obstacle avoidance AI
+### [Reverse Loop](https://github.com/chnnasn/TencentGameJam)
 
-### 📊 GitHub Stats
+> An innovative puzzle platformer featuring time-manipulation and ghost mechanics.
+
+- Players' original movements are recorded before time rewinds and then materialize as shadow entities
+- Players must avoid their past shadows and environmental obstacles to reach their objectives
+- The difficulty increases dynamically as players master the temporal displacement mechanics
+- **Technical Highlights:** Ghost entity generation system, temporal rewind mechanics, and obstacle avoidance AI
+
+## 📊 GitHub Stats
 
 ![chnnasn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chnnasn&show_icons=true&theme=default)
 
@@ -56,4 +63,6 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chnnasn.chnnasn)
 
-**Let's explore the infinite possibilities of together!** 🚀
+---
+
+**Let's explore the infinite possibilities of game development together!** 🚀
