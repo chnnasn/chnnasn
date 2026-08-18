@@ -57,9 +57,11 @@
 
 ## 📊 GitHub Stats
 
-![chnnasn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chnnasn&show_icons=true&theme=default)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chnnasn&layout=compact&theme=default)
+![chnnasn's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chnnasn&theme=default)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chnnasn&theme=default)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chnnasn.chnnasn)
 
